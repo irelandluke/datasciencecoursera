@@ -1,6 +1,8 @@
 ## This is a markdown file
 
+# This is a markdown file
+
 ### This is a markdown file
 
-li Uses R
-li dlfjsaldkfj;lasdkfjlds
+* Bullet Point 1
+* Bulltet Point 2
